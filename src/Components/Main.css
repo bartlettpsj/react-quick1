@@ -1,0 +1,7 @@
+.header {
+ margin-bottom: 20px;
+}
+
+div>a:not(:last-child) {
+    padding-right: 20px;
+}
